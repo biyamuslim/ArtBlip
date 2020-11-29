@@ -1,2 +1,2 @@
 # ArtBlip
-An art Gallery Management System.
+An Art Gallery Management System.
