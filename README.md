@@ -19,9 +19,9 @@ Install database management system, Microsoft SQL Server 2014 Management Studio.
 1. Clone the code 
 2. Open the project in Visual Studio.
 3. Click the start button on tool bar of the Visual Studio to run the project.
-### You will see this screen on the project.
+#### You will see this screen on the project.
 <img src= "ArtBlip/images/Capture.PNG"  width=400,>
-### After login or signup you will see the main screen of the project.Further each section have CRUD operation 
+After login or signup you will see the main screen of the project.Further each section have CRUD operation. 
 <img src= "ArtBlip/images/Capture2.PNG"  width=400,>
-### By click on Artwork we will have this.
+By click on Artwork we will have this.
 <img src= "ArtBlip/images/Capture3.PNG"  width=400,>
