@@ -8,10 +8,10 @@ For this project to run you need to have
 ##Visual Studio 2017 Community
 Install the code editor Visual Studio 2017 Community.
 
-##Microsoft .Net Framework
+## Microsoft .Net Framework
 Install Microsoft .Net Framework.
 
-##Microsoft SQL Server 2014 Management Studio
+## Microsoft SQL Server 2014 Management Studio
 Install database management system, Microsoft SQL Server 2014 Management Studio.
 
 ##  🏗 SETUP
