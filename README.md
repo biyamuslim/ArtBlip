@@ -4,8 +4,8 @@
 <img src= "ArtBlip/images/kisspng-c-programming-language-computer-icons-computer-pr-programming-5acadc62277db6.6978009015232441301618.png"  width=300,>
 
 ## 🛠 TOOLS
-For this project to run you need to have 
-##Visual Studio 2017 Community
+For this project to run you need to have. 
+## Visual Studio 2017 Community
 Install the code editor Visual Studio 2017 Community.
 
 ## Microsoft .Net Framework
