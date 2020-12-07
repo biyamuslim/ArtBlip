@@ -21,7 +21,7 @@ Install database management system, Microsoft SQL Server 2014 Management Studio.
 3. Click the start button on tool bar of the Visual Studio to run the project.
 #### You will see this screen on the project.
 <img src= "ArtBlip/images/Capture.PNG"  width=400,>
-After login or signup you will see the main screen of the project.Further each section have CRUD operation. 
+After login or signup you will see the main screen of the project. Further each section have CRUD operations. 
 <img src= "ArtBlip/images/Capture2.PNG"  width=400,>
-By click on Artwork we will have this and can perform CRUD operation on it.
+By click on Artwork we will have this and can perform CRUD operations on it.
 <img src= "ArtBlip/images/Capture3.PNG"  width=400,>
